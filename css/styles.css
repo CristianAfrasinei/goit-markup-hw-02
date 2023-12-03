@@ -26,7 +26,7 @@ body {
 .link {
     text-decoration: none;
 }
-.logo-studio-dark {
+.logostudio {
     color: var(--dark-blue);
 }
 .list{
@@ -171,7 +171,7 @@ body {
 }
   
  .flogostudio {
-    color: #f4f4fd;
+    color: ##2e2f42;
 }
 
 .firstbt {
