@@ -29,14 +29,14 @@ body {
 .logostudio {
     color: var(--dark-blue);
 }
-.list{
+.list {
     list-style: none;
 }
 
-.contacts{
+.contacts {
     font-style: normal;
 }
-.contacts{
+.contacts {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--more-blue);
@@ -63,10 +63,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contact:hover{
+.contact:hover {
     color:#404bbf;
 }
-.contact:focus{
+.contact:focus { 
     color: #404bbf;
 }
 .first {
@@ -74,7 +74,7 @@ body {
     background-color: var(--dark-blue);
 }
 
-.title{
+.title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -92,10 +92,10 @@ body {
     color: #ffffff;
 }
 
-.btn:hover{
+.btn:hover {
     background-color: #404bbf;
 }
-.btn:focus{
+.btn:focus {
     background-color: #404bbf;
 }
 .btn {
@@ -128,7 +128,7 @@ body {
     font-style: normal;
 }
 
-.lastsection{
+.lastsection {
     background-color: #F4F4FD;
 }
 
@@ -144,7 +144,7 @@ body {
 .ord {
     background-color:  #FFFFFFFF;
 }
-.lastsection{
+.lastsection { 
     background-color: var(--dark-blue);
 }
 
