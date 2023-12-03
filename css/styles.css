@@ -42,7 +42,7 @@ body {
     color: var(--more-blue);
     font-style: normal;
 }
-.indexlink {
+.index.link {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -171,7 +171,7 @@ body {
 }
   
  .flogostudio {
-    color: #f4f4f4fd
+    color: ##2e2f42;
 }
 
 .firstbt {
